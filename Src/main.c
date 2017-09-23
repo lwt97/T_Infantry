@@ -68,7 +68,7 @@
 /* Private variables ---------------------------------------------------------*/
 
 /* USER CODE END PV */
-
+//kjkjkj
 /* Private function prototypes -----------------------------------------------*/
 void SystemClock_Config(void);
 void MX_FREERTOS_Init(void);
